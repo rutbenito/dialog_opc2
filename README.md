@@ -1,6 +1,6 @@
 # dialog_opc2
 
-A Flutter project with a showDialog.
+A Flutter project with a simple Dialog.
 
 ## Getting Started
 
