@@ -1,6 +1,6 @@
 # dialog_opc2
 
-A new Flutter project.
+A Flutter project with a showDialog.
 
 ## Getting Started
 
